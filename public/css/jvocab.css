@@ -1,0 +1,70 @@
+body {
+  padding-top: 50px;
+}
+
+.example {
+  margin: 10px 0;
+  padding: 5px;
+  padding-left: 20px;
+  border-left: 3px solid #777777;
+  background-color: #fdf7f7;
+  
+}
+
+
+.warning {
+  margin: 10px 0;
+  padding: 5px;
+  padding-left: 20px;
+  border-left: 3px solid #ff7777;  
+  background-color: #fdf7f7;
+}
+
+.warning h4 {
+  color: red;
+}
+
+
+.navbar .brand {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -4px;
+  width: 24px;
+  float: none;
+}
+
+.brand-icon {
+  background-image: url('../img/jvocab.png');
+  background-repeat:no-repeat;
+  background-position: 15px center;
+  padding-left: 45px;
+}
+
+
+.faq dd {
+  padding-bottom: 20px;
+}
+
+.news dd {
+  padding-bottom: 20px; 
+  font-size: smaller;
+}
+
+.news dt {
+  padding-bottom: 10px; 
+}
+
+.manual {
+  font-size: smaller; 
+}
+
+.screenshot img {
+  margin: 5px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.table {
+  font-size: 80%;
+}
+
