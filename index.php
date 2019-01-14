@@ -510,7 +510,7 @@ if(substr($_SERVER['HTTP_HOST'],0,4)==='www.') {
         </p>
         <center>
         <br/>
-        <iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/donate.xml?account=410012581244065&quickpay=donate&payment-type-choice=on&mobile-payment-type-choice=on&default-sum=100&targets=%D0%94%D0%BB%D1%8F+%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0+JVocab&target-visibility=on&project-name=JVocab&project-site=http%3A%2F%2Fjvocab.com&button-text=05&successURL=http%3A%2F%2Fjvocab.com" width="508" height="120"></iframe>
+        <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=buyer&targets=%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20JVocab&targets-hint=%D0%9C%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D1%87%D1%82%D0%BE-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B8%D0%BB%D0%B8%20%D0%BF%D0%BE%D0%B6%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%D0%BC%20%3A-)&default-sum=100&button-text=11&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410012581244065" width="423" height="227" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
         </center>
         </div>
     </div>
